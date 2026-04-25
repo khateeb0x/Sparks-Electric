@@ -43,3 +43,5 @@ next-env.d.ts
 # python (ui-ux-pro-max skill scripts)
 __pycache__/
 *.py[cod]
+
+.vercel
